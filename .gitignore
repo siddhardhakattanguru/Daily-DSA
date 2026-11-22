@@ -1,0 +1,22 @@
+# Compiled binaries / build output
+*.out
+*.exe
+*.o
+*.class
+a.out
+bin/
+build/
+
+# Language-specific
+__pycache__/
+*.pyc
+node_modules/
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
